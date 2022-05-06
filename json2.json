@@ -1,0 +1,56 @@
+{
+    "DHL": [
+        {
+            "userID": 1,
+            "name": "Max",
+            "magPizza": false
+        },
+        {
+            "userID": 2,
+            "name": "Thomas",
+            "magPizza": false
+        },
+        {
+            "userID": 3,
+            "name": "Hans",
+            "magPizza": true
+        },
+        {
+            "userID": 4,
+            "name": "Eric",
+            "magPizza": true
+        },
+        {
+            "userID": 5,
+            "name": "Castor",
+            "magPizza": true
+        }
+    ],
+    "Motionfiber": [
+        {
+            "userID": 6,
+            "name": "Fabian",
+            "magPizza": true
+        },
+        {
+            "userID": 7,
+            "name": "Klaus",
+            "magPizza": true
+        },
+        {
+            "userID": 8,
+            "name": "Markus",
+            "magPizza": true
+        },
+        {
+            "userID": 9,
+            "name": "Patrick",
+            "magPizza": false
+        },
+        {
+            "userID": 10,
+            "name": "Frank",
+            "magPizza": true
+        }
+    ]
+}
