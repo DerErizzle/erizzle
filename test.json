@@ -5,7 +5,7 @@
             "name": "Eric",
             "lieblingsfarbe": "blau",
             "lieblingszahl": 10,
-            "magPizza": true
+            "magPizza": false
         },
         {
             "userID": 2,
